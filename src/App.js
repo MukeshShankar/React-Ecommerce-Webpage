@@ -26,6 +26,7 @@ import Perfume from "./Ecommerce/Pages/Beauty/Perfume";
 import EPrdCart from "./Ecommerce/Ecart/EPrdCart";
 import EFooter from "./Ecommerce/EFooter/EFooter";
 import ELogin from "./Ecommerce/EHome/ELogin";
+import ENopage from "./Ecommerce/ENopage";
 
 
 function App() {
